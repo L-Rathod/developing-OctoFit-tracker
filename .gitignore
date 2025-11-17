@@ -1,7 +1,8 @@
 .DS_Store
 
 # Virtual Environment
-venv
+octofit-tracker/backend/venv/
+octofit-tracker/backend/installed_packages.txt
 
 # octofit tracker app
 # octfit-tracker
